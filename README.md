@@ -1,17 +1,11 @@
 # ADCS-Assignment-Someshwar
 “MATLAB implementation of ADCS tasks (0–5) including rigid-body dynamics, PD+I control, RW/VSCMG steering, and singularity analysis.”
 
-📘 ADCS Assignment — MATLAB Implementation
-This repository contains MATLAB scripts for all tasks in the Attitude Determination and Control System (ADCS) assignment.
-The project is organized by task, with each folder containing the scripts relevant to that part of the assignment.
-
-✅ Task‑by‑Task Script Mapping
-🟦 Task 0 — Rigid‑Body Attitude Dynamics (7‑State Model)
-Goal: Implement quaternion kinematics and rigid‑body rotational dynamics.
-
+Task‑by‑Task Script Mapping
+Task 0 — Rigid‑Body Attitude Dynamics
 Scripts:
 
-attitude_dynamics_7state.m  
+attitude_dynamics.m  
 Implements the 7‑state rigid‑body model
 
 𝑥
