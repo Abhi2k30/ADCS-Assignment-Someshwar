@@ -52,7 +52,7 @@ These functions are used in Tasks 4 and 5.
 **Goal:** Design and test a quaternion PD+I controller on the rigid‑body model.
 
 **Scripts:**
-- `task3_PD_I.m`  
+- `main_task3.m`  
   Implements:
   - Quaternion error feedback  
   - PD+I control law  
@@ -67,7 +67,7 @@ These functions are used in Tasks 4 and 5.
 **Goal:** Perform a large‑angle slew using RW + VSCMG steering, ensuring momentum reaches >80% of the RW envelope.
 
 **Scripts:**
-- `task5a_fixed.m`  
+- `task5a_high_momentum_envelope.m`  
   Implements:
   - Non‑principal axis reference  
   - RW/VSCMG torque split  
