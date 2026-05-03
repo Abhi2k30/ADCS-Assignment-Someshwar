@@ -14,7 +14,7 @@
   \]
 
 
-- `task0_simulation.m`  
+- `Task_0.m`  
   RK4 simulation of the rigid‑body model.
 
 **Utilities used:**  
