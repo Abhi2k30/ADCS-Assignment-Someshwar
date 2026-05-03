@@ -1,4 +1,4 @@
-# ADCS-Assignment-Someshwar
+# ADCS-Task-TM2Space
 “MATLAB implementation of ADCS tasks (0–5) including rigid-body dynamics, PD+I control, RW/VSCMG steering, and singularity analysis.”
 
 ## Task 0 — Rigid‑Body Attitude Dynamics (7‑State Model)
