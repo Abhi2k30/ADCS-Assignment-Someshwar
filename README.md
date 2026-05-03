@@ -44,7 +44,7 @@
 - `vscmg_steering_matrices.m`  
   Computes steering matrices **S** and **G**.
 
-These functions are used in Tasks 4 and 5.
+These functions are used in Task 5.
 
 ---
 
