@@ -26,7 +26,7 @@
 **Goal:** Compute and visualize the reaction wheel momentum envelope.
 
 **Scripts:**
-- `task1_envelope.m`  
+- `momentum_envelope.m`  
   Computes RW envelope vertices and simulates momentum trajectory.
 - `plot_momentum_envelope.m`  
   3D visualization of envelope + trajectory.
